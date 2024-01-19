@@ -1,5 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/editaaestudio/editaaestudio/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd](https://i.ibb.co/nDf45Bt/Banner.png)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/nDf45Bt/Banner.png)"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">From the world of Graphic Design, I come here today because I played with HTML and CSS and I liked it, this world is a HUGE new planet where I don't know where to go, but I believe I will have a great story here!</p>&nbsp;
