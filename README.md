@@ -4,9 +4,7 @@
 <p align="center">From the world of Graphic Design, I come here today because I played with HTML and CSS and I liked it, this world is a HUGE new planet where I don't know where to go, but I believe I will have a great story here!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=editaaestudio&theme=transparent&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-editaaestudio.vercel.app/api/top-langs/?username=editaaestudio&show_icons=true&theme=transparent&layout=compact" />
- 
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=editaaestudio&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D)" />
  &nbsp;
  &nbsp;
 
