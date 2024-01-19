@@ -6,6 +6,7 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=editaaestudio&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-editaaestudio.vercel.app/api/top-langs/?username=editaaestudio&show_icons=true&theme=radical&layout=compact" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=editaaestudio&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  </div>
  
  &nbsp;
